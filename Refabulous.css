@@ -1373,7 +1373,7 @@ button {
    BACK TO TOP BUTTON
    =============================================== */
 
-.back-to-top {
+/* .back-to-top {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
@@ -1391,7 +1391,7 @@ button {
     pointer-events: none;
     transition: var(--transition-base);
     z-index: 999;
-}
+} */
 
 .back-to-top.visible {
     opacity: 1;
