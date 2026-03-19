@@ -530,3 +530,6 @@ if (typeof module !== 'undefined' && module.exports) {
         showFormMessage
     };
 }
+document.getElementById("ctaBtn").addEventListener("click", function() {
+    alert("Contact us on WhatsApp or call now!");
+});
